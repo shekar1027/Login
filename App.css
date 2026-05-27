@@ -1,0 +1,21 @@
+body{
+  background: #91bcc1;
+}
+.mail{
+  color: black;
+  font:200;
+  font-weight: bold ;
+}
+.password{
+  color: black;
+  font:200;
+  font-weight: bold ;
+}
+.submit{
+  color: rgb(6, 24, 24);
+  font-weight: bolder;
+  border: 0lvw;
+}
+h1{
+  font-weight: bolder;
+}
